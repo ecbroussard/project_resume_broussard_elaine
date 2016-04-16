@@ -36,6 +36,15 @@ h2 {
 	color: #98618c;
 }
 
+.collapsed.expander::before {
+	content: "\25B8";
+}
+
+.expanded.expander::before {
+	content: "\25BE";
+}
+
+
 @media all and (min-width: 700px) {
 	body {
 		background-image: url("../img/purpleshapes.png");

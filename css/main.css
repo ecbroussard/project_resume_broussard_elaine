@@ -14,8 +14,6 @@ body {
 
 #elaine, #logo {
 	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 #elaine {
@@ -36,4 +34,38 @@ h2 {
 h1,
 h2 {
 	color: #98618c;
+}
+
+@media all and (min-width: 700px) {
+	body {
+		background-image: url("../img/purpleshapes.png");
+	}
+
+	#logo {
+		display: block;
+		width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	#elaine {
+		width: 30%;
+		float: right;
+		margin: 2em;
+	}
+
+	#container {
+		width: 50%;
+		padding: 2em;
+	}
+}
+
+@media all and (min-width: 400px) and (max-width: 700px) {
+	#elaine {
+		width: 60%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 }

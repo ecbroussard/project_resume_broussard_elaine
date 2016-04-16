@@ -1,0 +1,39 @@
+body {
+	background-color: #92ddd3;
+	font-family: Lato, Arial, Helvetica, sans-serif;
+	color: #1B515E;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #92ddd3;
+	width: 80%;
+}
+
+
+#elaine, #logo {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#elaine {
+	border: 2px solid #98618c;
+}
+
+h1, {
+	font-family: "hwt-artz", Arial, Helvetica, sans-serif;
+	font-size: 300%;
+	text-align: center;
+}
+
+h2 {
+	font-family: "coquette", Lato, Arial, Helvetica, sans-serif;
+	font-size: 200%;
+}
+
+h1,
+h2 {
+	color: #98618c;
+}

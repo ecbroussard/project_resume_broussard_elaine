@@ -21,6 +21,8 @@ I used this site to help me write my custon JQuery code.
 
 # Comments
 
+FYI - I used Adobe Typekit fonts for this project, so the fonts WILL render incorrectly if you view this project locally on your machine. They will only render correctly if you view the version that is uploaded to my server. I just wanted to let you know that in case when you grade, you work off of local files.
+
 Hi Richard! So I realize I'm turning this in a couple of hours late. This is my first slightly late assignment all semester, so maybe you could cut me some slack? This was a hellish week for me! If you're a really strict stickler, I understand, but I figure it doesn't hurt to ask. I have such a strong A right now, and it really sucks that I may have just screwed it up.
 
 

@@ -12,11 +12,11 @@ body {
 }
 
 
-#elaine, #logo {
+#photocontainer, #logo {
 	width: 100%;
 }
 
-#elaine {
+#photocontainer {
 	border: 2px solid #98618c;
 }
 
@@ -57,7 +57,7 @@ h2 {
 		margin-right: auto;
 	}
 
-	#elaine {
+	#photocontainer {
 		width: 30%;
 		float: right;
 		margin: 2em;
@@ -70,7 +70,7 @@ h2 {
 }
 
 @media all and (min-width: 400px) and (max-width: 700px) {
-	#elaine {
+	#photocontainer {
 		width: 60%;
 		display: block;
 		margin-left: auto;
